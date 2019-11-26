@@ -1,0 +1,1 @@
+VoiceCommand-FPTSpeechRecognitionData-sphinx-20171017.dic
